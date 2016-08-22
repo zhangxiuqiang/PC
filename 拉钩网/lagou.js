@@ -65,7 +65,7 @@ window.onload = function () {
 
     var Tz = document.getElementById('Tz');
     Tz.onclick = function () {
-        window.location.href = "/D/毕业作业/新建文件夹/denglu.html";
+        window.location.href = "http://localhost:63342/%E6%AF%95%E4%B8%9A%E4%BD%9C%E4%B8%9A/denglu.html?_ijt=v5r48gf961mhqh7im3f5tuil28";
     }
     var l = utils.css(lin, "height");
     but1.onclick = function () {
